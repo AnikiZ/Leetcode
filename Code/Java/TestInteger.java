@@ -8,10 +8,10 @@ import java.util.Queue;
  * @Author: Zeping Zhu
  * @Andrew ID: zepingz
  * @Date: 2022-06-15 16:51:53
- * @LastEditTime: 2022-07-29 21:43:35
+ * @LastEditTime: 2022-09-07 10:48:24
  * @LastEditors: Zeping Zhu
  * @Description: 
- * @FilePath: /Code/Java/TestInteger.java
+ * @FilePath: /Java/TestInteger.java
  */
 public class TestInteger {
     public static void main(String[] args) {
@@ -69,6 +69,12 @@ public class TestInteger {
         int w = 1;
         changeInt(w);
         System.out.println(w);
+
+        // int[] aaaa = new int[]{1,2,3,4};
+        // for (int i : aaaa) {
+        //     i = 3;
+        // }
+        // System.out.println(Arrays.toString(aaaa));
     }
     public static void changeInt(int s) {
         s = 2;
@@ -87,4 +93,6 @@ public class TestInteger {
         test = false;
         return;
     }
+    
+    
 }
