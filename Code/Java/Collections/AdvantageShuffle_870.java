@@ -2,16 +2,15 @@
  * @Author: Zeping Zhu
  * @Andrew ID: zepingz
  * @Date: 2022-08-15 01:14:25
- * @LastEditTime: 2022-08-15 02:02:27
+ * @LastEditTime: 2022-10-20 03:15:58
  * @LastEditors: Zeping Zhu
  * @Description:
  
- * @FilePath: /Code/Java/Collections/AdvantageShuffle_870.java
+ * @FilePath: /Leetcode/Code/Java/Collections/AdvantageShuffle_870.java
  */
 package Collections;
 
 import java.util.Arrays;
-
 public class AdvantageShuffle_870 {
     class Solution_Greedy {
         
