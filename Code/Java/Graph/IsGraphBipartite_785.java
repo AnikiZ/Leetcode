@@ -1,13 +1,14 @@
+package Graph;
 import java.util.ArrayDeque;
 import java.util.Deque;
 /*
  * @Author: Zeping Zhu
  * @Andrew ID: zepingz
  * @Date: 2022-10-19 17:17:31
- * @LastEditTime: 2022-10-19 18:22:16
+ * @LastEditTime: 2022-10-19 18:29:25
  * @LastEditors: Zeping Zhu
  * @Description: 
- * @FilePath: /Code/Java/Graph/IsGraphBipartite_785.java
+ * @FilePath: /Leetcode/Code/Java/Graph/IsGraphBipartite_785.java
  */
 public class IsGraphBipartite_785 {
     class Solution {

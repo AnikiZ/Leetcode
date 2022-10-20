@@ -1,11 +1,12 @@
+package Graph;
 /*
  * @Author: Zeping Zhu
  * @Andrew ID: zepingz
  * @Date: 2022-10-19 02:57:51
- * @LastEditTime: 2022-10-19 18:22:18
+ * @LastEditTime: 2022-10-19 18:29:45
  * @LastEditors: Zeping Zhu
  * @Description: 
- * @FilePath: /Code/Java/Graph/NumberOfProvinces_547.java
+ * @FilePath: /Leetcode/Code/Java/Graph/NumberOfProvinces_547.java
  */
 class Solution {
     public int findCircleNum(int[][] isConnected) {
