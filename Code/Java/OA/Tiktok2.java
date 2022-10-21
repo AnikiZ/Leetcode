@@ -1,17 +1,17 @@
 /*
  * @Author: Zeping Zhu
  * @Andrew ID: zepingz
- * @Date: 2022-10-20 02:46:53
- * @LastEditTime: 2022-10-20 22:37:29
+ * @Date: 2022-10-20 22:48:11
+ * @LastEditTime: 2022-10-20 23:36:23
  * @LastEditors: Zeping Zhu
  * @Description: 
- * @FilePath: /Leetcode/Code/Java/DFS/UniquePaths_62.java
+ * @FilePath: /Leetcode/Code/Java/OA/Tiktok2.java
  */
-package DFS;
+package OA;
 
 import java.util.Arrays;
 
-public class UniquePaths_62 {
+public class Tiktok2 {
     public static void main(String[] args) {
         System.out.println(Solution.uniquePaths(2, 2));
     }
