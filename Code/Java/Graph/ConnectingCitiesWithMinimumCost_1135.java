@@ -2,7 +2,7 @@
  * @Author: Zeping Zhu
  * @Andrew ID: zepingz
  * @Date: 2022-10-20 02:29:07
- * @LastEditTime: 2022-10-23 02:35:34
+ * @LastEditTime: 2022-10-31 02:03:50
  * @LastEditors: Zeping Zhu
  * @Description: 
  * @FilePath: /Leetcode/Code/Java/Graph/ConnectingCitiesWithMinimumCost_1135.java
@@ -83,6 +83,8 @@ public class ConnectingCitiesWithMinimumCost_1135 {
             // 每一步都会增加一条连接树中顶点与不在树中顶点且权重最小的边加入到树中。
             // 是不断往外扩的，不需要UF
 
+            // 这样不会出错但很怪。linkedlist右边不能加泛型之类会报错
+            // List<int[]>[] graph = new LinkedList[n + 1];
             List<List<int[]>> edges = new ArrayList<>();
             for (int i = 0; i < n + 1; i++) {
                 edges.add(new ArrayList<>());
