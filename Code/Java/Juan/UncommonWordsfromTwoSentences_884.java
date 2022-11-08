@@ -2,13 +2,14 @@
  * @Author: Zeping Zhu
  * @Andrew ID: zepingz
  * @Date: 2022-11-07 17:58:33
- * @LastEditTime: 2022-11-07 17:58:33
+ * @LastEditTime: 2022-11-08 01:33:19
  * @LastEditors: Zeping Zhu
  * @Description: 
  * @FilePath: /Java/Juan/UncommonWordsfromTwoSentences_884.java
  */
 package Juan;
 
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -17,9 +18,25 @@ public class UncommonWordsfromTwoSentences_884 {
         public String[] uncommonFromSentences(String s1, String s2) {
             String[] s1s = s1.split(" ");
             String[] s2s = s2.split(" ");
-            
-        
-        
+            HashMap<String, Integer> map = new HashMap<>();
+            for (String word : s1s) {
+                map.put(word, map.getOrDefault(word, 0) + 1);
+            }
+            for (String word : s2s) {
+                map.put(word, map.getOrDefault(word, 0) + 1);
+            }
+            ArrayList<String> ans = new ArrayList<>();
+            for (Map.Entry<String, Integer> entry : map.entrySet()) {
+                if (entry.getValue() == 1) {
+                    ans.add(entry.getKey());
+                }
+            }
+            int len = ans.size();
+            String[] res = new String[len];
+            for (int i = 0; i < len; i++) {
+                res[i] = ans.get(i);
+            }
+            return res;
         }
     }
     class Solution_Chen {
