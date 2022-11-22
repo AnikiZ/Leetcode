@@ -2,10 +2,10 @@
  * @Author: Zeping Zhu
  * @Andrew ID: zepingz
  * @Date: 2022-06-23 21:03:31
- * @LastEditTime: 2022-06-27 16:09:51
+ * @LastEditTime: 2022-11-22 00:29:26
  * @LastEditors: Zeping Zhu
  * @Description: 
- * @FilePath: /Code/Java/SearchInRotatedSortedArrayII_81.java
+ * @FilePath: /Java/SearchInRotatedSortedArrayII_81.java
  */
 public class SearchInRotatedSortedArrayII_81 {
     class Solution_BetterToUnderstand {
@@ -45,10 +45,7 @@ public class SearchInRotatedSortedArrayII_81 {
                 if (nums[mid] == target) {
                     return true;
                 }
-                // 无法判断在左区间还是右区间
-                if (nums[left] == nums[mid]) {
-                    left++;
-                } else if (nums[mid] <= nums[right]) {
+                if (nums[mid] <= nums[right]) {
                     // right side is non-decreasing
                     if (target > nums[mid] && target <= nums[right]) {
                         left = mid + 1;
