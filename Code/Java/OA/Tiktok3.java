@@ -2,10 +2,10 @@
  * @Author: Zeping Zhu
  * @Andrew ID: zepingz
  * @Date: 2022-10-20 22:49:34
- * @LastEditTime: 2022-10-21 04:13:44
+ * @LastEditTime: 2022-11-22 16:34:00
  * @LastEditors: Zeping Zhu
  * @Description: 
- * @FilePath: /Leetcode/Code/Java/OA/Tiktok3.java
+ * @FilePath: /Java/OA/Tiktok3.java
  */
 package OA;
 
