@@ -2,7 +2,7 @@
  * @Author: Zeping Zhu
  * @Andrew ID: zepingz
  * @Date: 2022-11-25 15:32:47
- * @LastEditTime: 2022-11-25 16:30:24
+ * @LastEditTime: 2022-11-26 01:44:48
  * @LastEditors: Zeping Zhu
  * @Description: 
  * @FilePath: /Java/OA/TaskScheduler_621.java
@@ -20,6 +20,7 @@ public class TaskScheduler_621 {
             System.out.println(t);
 
         }
+        
         public static int leastInterval(char[] tasks, int n) {
             int term = 0;
             int len = tasks.length;
@@ -53,6 +54,29 @@ public class TaskScheduler_621 {
                 nextValid[maxRemainIndex] = term + n + 1;
             }
             return term;
+        }
+    }
+    class Solution_Fxxk {
+        public static int leastInterval(char[] tasks, int n) {
+            int term = 0;
+            int len = tasks.length;
+            int[] remaining = new int[26];
+            for (char c : tasks) {
+                remaining[c-'A']++;
+            }
+            int max = 0;
+            for (int remain : remaining) {
+                if (remain > max) {
+                    max = remain;
+                }
+            }
+            int cnt =0;
+            for (int remain : remaining) {
+                if (max == remain) {
+                    cnt++;
+                }
+            }
+            return Math.max(tasks.length, (n+1) * (max-1) + cnt);
         }
     }
 }
