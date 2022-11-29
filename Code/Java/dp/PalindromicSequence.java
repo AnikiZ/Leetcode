@@ -1,13 +1,4 @@
-/*
- * @Author: Zeping Zhu
- * @Andrew ID: zepingz
- * @Date: 2022-11-29 02:01:46
- * @LastEditTime: 2022-11-29 11:32:37
- * @LastEditors: Zeping Zhu
- * @Description: 
- * @FilePath: /Java/OA/PalindromicSequence.java
- */
-package OA;
+package dp;
 
 public class PalindromicSequence {
     public static void main(String[] args) {
