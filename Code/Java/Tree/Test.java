@@ -2,12 +2,15 @@
  * @Author: Zeping Zhu
  * @Andrew ID: zepingz
  * @Date: 2022-08-22 19:05:21
- * @LastEditTime: 2022-08-22 19:09:58
+ * @LastEditTime: 2022-11-30 11:28:05
  * @LastEditors: Zeping Zhu
  * @Description: 
- * @FilePath: /Code/Java/Tree/Test.java
+ * @FilePath: /Java/Tree/Test.java
  */
 package Tree;
+
+import java.util.ArrayList;
+import java.util.List;
 
 public class Test {
     public static class TreeNode {
@@ -30,7 +33,12 @@ public class Test {
         int a = 45;
         add(a);
         System.out.println(a);
+        List<Integer> li = new ArrayList<>();
+        li.add(0,1);
+        li.add(0,2);
+        System.out.println(li.toString());
     }
+
     private static TreeNode clear(TreeNode root) {
         // root = null;
         root.val = 3;
@@ -39,6 +47,7 @@ public class Test {
     private static void add(int a) {
         a++;
     }
+
 }
 /*
  * @Author: Zeping Zhu
