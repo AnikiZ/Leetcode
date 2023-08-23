@@ -2,16 +2,18 @@
  * @Author: Zeping Zhu
  * @Andrew ID: zepingz
  * @Date: 2022-08-18 01:24:49
- * @LastEditTime: 2022-08-23 12:30:50
+ * @LastEditTime: 2022-12-02 16:06:25
  * @LastEditors: Zeping Zhu
  * @Description: 
- * @FilePath: /Code/Java/String/Test.java
+ * @FilePath: /Java/String/Test.java
  */
 // javac Test.java
 // java -classpath ../ String.Test 在String目录下运行该命令行可以执行
 // 或者去上级(..) 然后 java String.Test
 // 因为有package存在！
 package String;
+
+import java.util.Arrays;
 
 public class Test {
     public static void main(String[] args) {
@@ -31,6 +33,10 @@ public class Test {
         // 这个就会化成ascii码对应的数字！
         ans.append('0' + 1);
         System.out.println(ans);
+
+        String hostname = "ece001";
+        String[] checkParen = {hostname, "123"};
+        System.out.println(Arrays.toString(checkParen));
     }
     public static void add(int i) {
         i++;

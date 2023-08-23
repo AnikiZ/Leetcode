@@ -14,7 +14,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.PriorityQueue;
 
-import Graph.ConnectingCitiesWithMinimumCost_1135.Solution_Prim;
+import UnionSet.ConnectingCitiesWithMinimumCost_1135.Solution_Prim;
 public class ConnectingCitiesWithMinimumCost_1135 {
     public static void main(String[] args) {
         int[][] connections = {{1,2,5},{1,3,6},{2,3,1}};

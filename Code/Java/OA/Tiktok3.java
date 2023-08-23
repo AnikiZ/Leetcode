@@ -27,6 +27,8 @@ public class Tiktok3 {
 
         String t = scanner.nextLine();
 
+
+
         for (int i = 0; i < Integer.valueOf(t); i++) {
             System.out.println("how many pairs of relationships?");
             String m = scanner.nextLine();

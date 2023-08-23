@@ -1,0 +1,262 @@
+2023.04.14 21:34:58 INFO  Started: Metals version 0.11.11 in workspace '/Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java' for client Visual Studio Code 1.77.1.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/Users/zepingzhu/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.04.14 21:34:59 INFO  time: initialize in 0.5s
+2023.04.14 21:35:00 WARN  Build server is not auto-connectable.
+2023.04.14 21:35:00 WARN  no build tool detected in workspace '/Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.04.14 21:35:00 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/OA/Tiktoksb.java
+4月 14, 2023 9:35:00 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+4月 14, 2023 9:35:00 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+2023.04.14 21:48:25 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/OA/Tiktok1.java
+2023.04.14 21:48:34 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/OA/Tiktok2.java
+2023.04.14 21:48:38 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/OA/Tiktok3.java
+2023.04.14 21:48:49 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/OA/LargestSubGrid.java
+2023.04.14 21:48:54 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/OA/Tiktok1.java
+2023.04.14 21:49:51 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/String/BasicCalculatorII_227.java
+2023.04.14 21:49:53 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/OA/Tiles.java
+2023.04.14 21:51:05 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/CombinationSumII_40.java
+2023.04.14 21:51:22 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/WordSearch_79.java
+2023.04.14 21:51:30 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/Contest/LargestPalindromicNumber_6166.java
+2023.04.14 21:51:31 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/Contest/MinimumHoursOfTrainingToWinACompetition_6152.java
+2023.04.14 21:51:32 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/DFS/ContainVirus_749.java
+2023.04.14 21:51:47 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/DFS/UniquePaths_62.java
+2023.04.14 21:51:48 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/dp/LongestLineOfConsecutiveOneInMatrix_562.java
+2023.04.14 21:52:01 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/dp/LongestPalindromicSubsequence_516.java
+2023.04.14 21:52:01 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/dp/PalindromicSequence.java
+2023.04.14 21:52:03 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/Graph/AllPathsFromSourceLeadToDestination_1059.java
+2023.04.14 21:52:35 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/Graph/ConnectingCitiesWithMinimumCost_1135.java
+2023.04.14 21:52:35 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/Graph/CourseScheduleII_210.java
+2023.04.14 21:52:36 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/Graph/IsGraphBipartite_785.java
+2023.04.14 21:52:37 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/Graph/NumberOfProvinces_547.java
+2023.04.14 21:52:40 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/Graph/ReachableNodesInSubdividedGraph_882.java
+2023.04.14 21:52:44 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/Hash/LongestConsecutiveSequence_128.java
+2023.04.14 21:52:44 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/Hash/MaximumSizeSubarraySumEqualsk_325.java
+2023.04.14 21:52:45 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/Hash/MaxPointsOnALine_149.java
+2023.04.14 21:52:47 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/Hash/TwoSum_1.java
+2023.04.14 21:53:10 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/Hash/MaxPointsOnALine_149.java
+2023.04.14 21:53:21 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/Hash/RangeSumQuery_Immutable_303.java
+2023.04.14 21:53:23 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/Hash/RangeSumQuery2D_Immutable_304.java
+2023.04.14 21:53:24 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/Hash/ReconstructItinerary_332.java
+2023.04.14 21:54:02 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/Hash/SubarraySumEqualsK_560.java
+2023.04.14 21:54:03 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/Hash/TwoSum_1.java
+2023.04.14 21:54:14 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/MaximumLengthOfPairChain_646.java
+2023.04.14 21:55:04 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/MaximumProductOfWordLengths_318.java
+2023.04.14 21:55:10 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/MissingRanges_163.java
+2023.04.14 21:55:11 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/SortCharactersByFrequency_451.java
+2023.04.14 21:55:11 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/TheSkylineProblem_218.java
+2023.04.14 21:55:17 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/TopKFrequentElements_347.java
+2023.04.14 21:55:18 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/Collections/AdvantageShuffle_870.java
+2023.04.14 21:55:20 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/Collections/SuperUglyNumber_313.java
+2023.04.14 21:55:20 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/Concurrency/BuildingH2O_1117.java
+2023.04.14 21:55:22 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/Graph/ConnectingCitiesWithMinimumCost_1135.java
+2023.04.14 21:55:24 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/Graph/ReachableNodesInSubdividedGraph_882.java
+2023.04.14 21:59:38 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/OA/Tiktok2.java
+2023.04.14 21:59:39 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/OA/Tiktok1.java
+2023.04.14 23:47:12 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/OA/TaskScheduler_621.java
+2023.04.14 23:47:24 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/OA/meituan3.java
+2023.04.14 23:47:43 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/OA/meituan3.java
+2023.04.14 23:47:44 WARN  Running javac-semanticdb failed for file:///Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/OA/meituan3.java. Output:
+/Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/OA/meituan3.java:28: error: illegal start of expression
+        if ()
+            ^
+/Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/OA/meituan3.java:29: error: illegal start of statement
+      } else if (op.equals("R")) {
+      ^
+/Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/OA/meituan3.java:107: error: -> expected
+          Element<Integer> small = () ? aF : bF;
+                                     ^
+/Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/OA/meituan3.java:107: error: illegal start of expression
+          Element<Integer> small = () ? aF : bF;
+                                      ^
+/Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/OA/meituan3.java:116: error: class, interface, enum, or record expected
+}
+^
+5 errors
+4月 14, 2023 11:56:03 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.ArrayIndexOutOfBoundsException: Index -1 out of bounds for length 10
+java.util.concurrent.CompletionException: java.lang.ArrayIndexOutOfBoundsException: Index -1 out of bounds for length 10
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2194)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: Index -1 out of bounds for length 10
+	at com.thoughtworks.qdox.parser.impl.JFlexLexer.popState(JFlexLexer.java:1691)
+	at com.thoughtworks.qdox.parser.impl.JFlexLexer.yylex(JFlexLexer.java:2310)
+	at com.thoughtworks.qdox.parser.impl.JFlexLexer.lex(JFlexLexer.java:1674)
+	at com.thoughtworks.qdox.parser.impl.Parser.yylex(Parser.java:1949)
+	at com.thoughtworks.qdox.parser.impl.Parser.yyparse(Parser.java:3350)
+	at com.thoughtworks.qdox.parser.impl.Parser.parse(Parser.java:1944)
+	at com.thoughtworks.qdox.library.SourceLibrary.parse(SourceLibrary.java:232)
+	at com.thoughtworks.qdox.library.SourceLibrary.parse(SourceLibrary.java:190)
+	at com.thoughtworks.qdox.library.SourceLibrary.addSource(SourceLibrary.java:94)
+	at com.thoughtworks.qdox.library.SourceLibrary.addSource(SourceLibrary.java:89)
+	at com.thoughtworks.qdox.library.SortedClassLibraryBuilder.addSource(SortedClassLibraryBuilder.java:162)
+	at com.thoughtworks.qdox.JavaProjectBuilder.addSource(JavaProjectBuilder.java:174)
+	at scala.meta.internal.mtags.JavaMtags.indexRoot(JavaMtags.scala:39)
+	at scala.meta.internal.mtags.MtagsIndexer.index(MtagsIndexer.scala:19)
+	at scala.meta.internal.mtags.MtagsIndexer.index$(MtagsIndexer.scala:18)
+	at scala.meta.internal.mtags.JavaMtags.index(JavaMtags.scala:30)
+	at scala.meta.internal.mtags.Mtags$.allToplevels(Mtags.scala:100)
+	at scala.meta.internal.metals.DefinitionProvider.fromMtags(DefinitionProvider.scala:371)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$3(DefinitionProvider.scala:291)
+	at scala.Option.orElse(Option.scala:477)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$1(DefinitionProvider.scala:291)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.DefinitionProvider.positionOccurrence(DefinitionProvider.scala:286)
+	at scala.meta.internal.metals.JavaDocumentHighlightProvider.$anonfun$documentHighlight$1(JavaDocumentHighlightProvider.scala:26)
+	at scala.collection.immutable.List.map(List.scala:246)
+	at scala.meta.internal.metals.JavaDocumentHighlightProvider.documentHighlight(JavaDocumentHighlightProvider.scala:22)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$documentHighlights$1(MetalsLspService.scala:1547)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+2023.04.15 00:25:45 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/OA/meituan3.java
+2023.04.15 00:25:45 INFO  Shutting down server
+2023.04.15 00:25:45 INFO  shutting down Metals
+2023.04.15 00:25:45 INFO  Exiting server
+2023.04.15 02:29:05 INFO  Started: Metals version 0.11.11 in workspace '/Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java' for client Visual Studio Code 1.77.1.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/Users/zepingzhu/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.04.15 02:29:05 INFO  time: initialize in 0.5s
+2023.04.15 02:29:06 WARN  Build server is not auto-connectable.
+2023.04.15 02:29:06 WARN  no build tool detected in workspace '/Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.04.15 02:29:06 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/OA/meituan3.java
+4月 15, 2023 2:29:07 上午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+4月 15, 2023 2:29:07 上午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+4月 15, 2023 2:29:07 上午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+2023.04.15 02:30:23 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/HappyNumber_202.java
+2023.04.15 07:47:56 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/OA/Tiktok3.java
+4月 16, 2023 11:48:04 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+4月 17, 2023 9:26:16 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.04.19 07:36:49 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/Hash/ReconstructItinerary_332.java
+2023.04.19 07:37:02 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/Tiktok/MeetingRoomsII_253.java
+2023.04.19 17:15:19 INFO  Shutting down server
+2023.04.19 17:15:19 INFO  shutting down Metals
+2023.04.19 17:15:19 INFO  Exiting server
+2023.04.26 21:29:46 INFO  Started: Metals version 0.11.12 in workspace '/Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java' for client Visual Studio Code 1.77.1.
+4月 26, 2023 9:29:46 下午 org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFO: Flyway Community Edition 9.16.3 by Redgate
+4月 26, 2023 9:29:46 下午 org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: See release notes here: https://rd.gt/416ObMi
+4月 26, 2023 9:29:46 下午 org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: 
+4月 26, 2023 9:29:46 下午 org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+INFO: Database: jdbc:h2:file:/Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/.metals/metals (H2 2.1)
+4月 26, 2023 9:29:46 下午 org.flywaydb.core.internal.command.DbValidate validate
+INFO: Successfully validated 4 migrations (execution time 00:00.025s)
+4月 26, 2023 9:29:46 下午 org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFO: Current version of schema "PUBLIC": 4
+4月 26, 2023 9:29:46 下午 org.flywaydb.core.internal.command.DbMigrate logSummary
+INFO: Schema "PUBLIC" is up to date. No migration necessary.
+2023.04.26 21:29:47 INFO  time: initialize in 0.57s
+2023.04.26 21:29:48 WARN  Build server is not auto-connectable.
+2023.04.26 21:29:48 WARN  no build tool detected in workspace '/Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.04.26 21:29:48 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/Tiktok/MeetingRoomsII_253.java
+2023.04.26 21:30:02 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/Tiktok/LRUCache_146.java
+2023.04.26 21:30:07 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/DFS/ContainVirus_749.java
+2023.04.26 21:30:10 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/DFS/UniquePaths_62.java
+2023.04.26 21:30:46 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/Hash/ReconstructItinerary_332.java
+2023.04.26 21:30:55 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/MinimumHeightTrees_310.java
+2023.04.26 21:31:20 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/ShortestBridge_934.java
+2023.04.26 21:31:21 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/SortCharactersByFrequency_451.java
+2023.04.26 21:31:26 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/TheSkylineProblem_218.java
+2023.04.26 21:31:30 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/MinimumHeightTrees_310.java
+2023.04.26 21:31:37 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/SortCharactersByFrequency_451.java
+2023.04.26 21:31:39 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/WordLadderII_126.java
+2023.04.26 21:31:46 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/Graph/ConnectingCitiesWithMinimumCost_1135.java
+2023.04.26 21:31:48 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/Tree/FindBottomLeftTreeValue_513.java
+2023.04.26 21:31:55 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/Tree/SubtreeofAnotherTree_572.java
+2023.04.26 21:31:58 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/Tree/TwoSumIV_InputIsaBST_653.java
+2023.04.26 21:32:29 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/BeautifulArray_932.java
+2023.04.26 21:32:40 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/MaximumProductOfWordLengths_318.java
+2023.04.26 21:32:42 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/SingleNumberIII_260.java
+2023.04.26 21:32:43 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/Tiktok/BullsandCows_299.java
+2023.04.26 21:32:45 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/Graph/ReachableNodesInSubdividedGraph_882.java
+2023.04.26 21:32:52 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/LongestSubstringWithAtMostKDistinctCharacters_340.java
+2023.04.26 21:33:31 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/SortCharactersByFrequency_451.java
+2023.04.26 21:33:52 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/Collections/DegreeOfAnArray_697.java
+2023.04.26 21:33:56 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/Juan/UncommonWordsfromTwoSentences_884.java
+2023.04.26 21:34:01 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/Zuo/Graph.java
+2023.04.26 21:34:11 INFO  Shutting down server
+2023.04.26 21:34:11 INFO  shutting down Metals
+2023.04.26 21:34:11 INFO  Exiting server
+2023.05.06 10:01:23 INFO  Started: Metals version 0.11.12 in workspace '/Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java' for client Visual Studio Code 1.77.3.
+5月 06, 2023 10:01:23 上午 org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFO: Flyway Community Edition 9.16.3 by Redgate
+5月 06, 2023 10:01:23 上午 org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: See release notes here: https://rd.gt/416ObMi
+5月 06, 2023 10:01:23 上午 org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: 
+5月 06, 2023 10:01:23 上午 org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+INFO: Database: jdbc:h2:file:/Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/.metals/metals (H2 2.1)
+5月 06, 2023 10:01:23 上午 org.flywaydb.core.internal.command.DbValidate validate
+INFO: Successfully validated 4 migrations (execution time 00:00.014s)
+5月 06, 2023 10:01:23 上午 org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFO: Current version of schema "PUBLIC": 4
+5月 06, 2023 10:01:23 上午 org.flywaydb.core.internal.command.DbMigrate logSummary
+INFO: Schema "PUBLIC" is up to date. No migration necessary.
+2023.05.06 10:01:23 INFO  time: initialize in 0.46s
+2023.05.06 10:01:24 WARN  Build server is not auto-connectable.
+2023.05.06 10:01:24 WARN  no build tool detected in workspace '/Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.05.06 10:01:24 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/Juan/UncommonWordsfromTwoSentences_884.java
+2023.05.06 10:02:09 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/OA/Tiles.java
+2023.05.06 10:02:25 WARN  no build target for: /Users/zepingzhu/cmu/LeetCode/Leetcode/Code/Java/Ali/ExternalSort.java
+5月 06, 2023 10:02:25 上午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: org.eclipse.jdt.core.compiler.InvalidInputException: Underscores_In_Literals_Not_Below_17
+java.util.concurrent.CompletionException: org.eclipse.jdt.core.compiler.InvalidInputException: Underscores_In_Literals_Not_Below_17
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2194)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+Caused by: org.eclipse.jdt.core.compiler.InvalidInputException: Underscores_In_Literals_Not_Below_17
+	at org.eclipse.jdt.internal.core.util.PublicScanner.consumeDigits(PublicScanner.java:824)
+	at org.eclipse.jdt.internal.core.util.PublicScanner.consumeDigits(PublicScanner.java:812)
+	at org.eclipse.jdt.internal.core.util.PublicScanner.scanNumber(PublicScanner.java:3831)
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1854)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.next$1(JavaFoldingRangeExtractor.scala:102)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gather$1(JavaFoldingRangeExtractor.scala:147)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.extract(JavaFoldingRangeExtractor.scala:157)
+	at scala.meta.internal.parsing.FoldingRangeProvider.$anonfun$getRangedForJava$2(FoldingRangeProvider.scala:48)
+	at scala.Option$WithFilter.map(Option.scala:242)
+	at scala.meta.internal.parsing.FoldingRangeProvider.getRangedForJava(FoldingRangeProvider.scala:43)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$foldingRange$3(MetalsLspService.scala:1795)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+5月 07, 2023 1:17:29 上午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.05.08 21:58:34 INFO  Shutting down server
+2023.05.08 21:58:34 INFO  shutting down Metals
+2023.05.08 21:58:34 INFO  Exiting server
