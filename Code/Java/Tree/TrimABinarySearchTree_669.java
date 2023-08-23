@@ -11,7 +11,7 @@ package Tree;
 
 public class TrimABinarySearchTree_669 {
     class Solution {
-        public static class TreeNode {
+        public class TreeNode {
             int val;
             TreeNode left;
             TreeNode right;

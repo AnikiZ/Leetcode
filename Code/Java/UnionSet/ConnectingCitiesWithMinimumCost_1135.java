@@ -7,14 +7,12 @@
  * @Description: 
  * @FilePath: /Leetcode/Code/Java/Graph/ConnectingCitiesWithMinimumCost_1135.java
  */
-package Graph;
+package UnionSet;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.PriorityQueue;
-
-import UnionSet.ConnectingCitiesWithMinimumCost_1135.Solution_Prim;
 public class ConnectingCitiesWithMinimumCost_1135 {
     public static void main(String[] args) {
         int[][] connections = {{1,2,5},{1,3,6},{2,3,1}};
